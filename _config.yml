@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Hands-Free Cook Mode
     description                           : Follow step-by-step instructions in hands-free mode using voice commands for a seamless cooking experience.
-    fontawesome_icon_name                 : hand-sparkles
+    fontawesome_icon_name                 : fa-solid fa-hand-sparkles
 
   - title                                 : Easily Share Recipes
     description                           : Share your favorite recipes with your loved ones via text, email, or social media.on
