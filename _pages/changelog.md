@@ -4,62 +4,49 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# **What's New in Cooky**
 
-<br>
+Welcome to **Cooky**, your ultimate companion for planning, saving, and enjoying delicious meals! With a variety of features designed to make cooking and grocery shopping effortless, this app is here to inspire your culinary journey.
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+---
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## **Version 1.0 - Initial Release**
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+### **Introducing Meal Planning Made Easy**
+Plan your meals effortlessly with our intuitive meal planner:
+- Create meal plans for **breakfast, lunch, dinner, and dessert**.
+- Choose from a wide range of cuisines to match your taste, including:
+  - **American**
+  - **Italian**
+  - **Mexican**
+  - **Chinese**
+  - **Japanese**
+  - **Mediterranean**
+  - **Thai**
+  - **French**
+  - **Korean**
+  - **Indian**
+- Plan recipes up to **2 weeks in advance**, keeping your schedule and preferences organized.
 
-<br>
+---
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### **Save Your Favorites**
+- Easily **favorite recipes** for quick access anytime.
+- Build your personal library of go-to meals for every occasion.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+---
 
-<br>
+### **Simplify Grocery Shopping**
+- Add recipe ingredients directly to your **grocery list**.
+- Check off items as you shop at your favorite supermarket.
 
-________
-<br>
+---
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+### **Why You’ll Love It**
+- A diverse collection of cuisines ensures there’s something for everyone.
+- Stay organized with meal planning and grocery integration.
+- Save time and reduce food waste by planning ahead.
 
-<br>
+---
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
+Start exploring today and enjoy the convenience of stress-free meal planning! We’re just getting started—stay tuned for more features and updates.
