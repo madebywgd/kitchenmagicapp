@@ -11,7 +11,7 @@ presskit_download_link                    : https://emilbaehr.com               
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Cooky                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Cooky helps stay-at-home moms prepare delicious meals for their families with authentic recipes from around the world.
 
@@ -36,46 +36,29 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Meal Planning Made Simple
+    description                           : Plan meals for breakfast, lunch, dinner, and dessert with ease, up to two weeks in advance.
+    fontawesome_icon_name                 : calendar-alt
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Explore Diverse Cuisines
+    description                           : Choose from 10 popular cuisines, including Italian, Mexican, Chinese, and more.
+    fontawesome_icon_name                 : utensils
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Save Your Favorites
+    description                           : Mark recipes as favorites for quick access anytime.
+    fontawesome_icon_name                 : heart
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Simplified Grocery Shopping
+    description                           : Add recipe ingredients to your grocery list for easy shopping.
+    fontawesome_icon_name                 : shopping-cart
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Hands-Free Cook Mode
+    description                           : Follow step-by-step instructions in hands-free mode using voice commands for a seamless cooking experience.
+    fontawesome_icon_name                 : hand-sparkles
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  - title                                 : Easily Share Recipes
+    description                           : Share your favorite recipes with your loved ones via text, email, or social media.on
+    fontawesome_icon_name                 : share-alt
 
 
 # Theme Settings
