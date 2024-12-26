@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Meal Planning Made Simple
     description                           : Plan meals for breakfast, lunch, dinner, and dessert with ease, up to two weeks in advance.
-    fontawesome_icon_name                 : calendar-alt
+    fontawesome_icon_name                 : calendar-days
     
   - title                                 : Explore Diverse Cuisines
     description                           : Choose from 10 popular cuisines, including Italian, Mexican, Chinese, and more.
@@ -50,19 +50,15 @@ features                                  :
 
   - title                                 : Simplified Grocery Shopping
     description                           : Add recipe ingredients to your grocery list for easy shopping.
-    fontawesome_icon_name                 : shopping-cart
+    fontawesome_icon_name                 : cart-shopping
 
   - title                                 : Hands-Free Cook Mode
     description                           : Follow step-by-step instructions in hands-free mode using voice commands for a seamless cooking experience.
-    fontawesome_icon_name                 : share-alt
+    fontawesome_icon_name                 : hand-sparkles
 
   - title                                 : Easily Share Recipes
     description                           : Share your favorite recipes with your loved ones via text, email, or social media.
-    fontawesome_icon_name                 : share-alt
-
-  - title                                 : Easily Share Recipes
-    description                           : Share your favorite recipes with your loved ones via text, email, or social media.
-    fontawesome_icon_name                 : fa-solid fa-hand-sparkles
+    fontawesome_icon_name                 : share-nodes
 
 # Theme Settings
 topbar_color                              : "#000000"
