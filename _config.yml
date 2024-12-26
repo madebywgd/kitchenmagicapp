@@ -60,6 +60,9 @@ features                                  :
     description                           : Share your favorite recipes with your loved ones via text, email, or social media.on
     fontawesome_icon_name                 : share-alt
 
+  - title                                 : Easily Share Recipes
+    description                           : Share your favorite recipes with your loved ones via text, email, or social media.on
+    fontawesome_icon_name                 : hand
 
 # Theme Settings
 topbar_color                              : "#000000"
