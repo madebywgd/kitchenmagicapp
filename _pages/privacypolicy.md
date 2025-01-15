@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-Dec 25, 2024
+Jan 15, 2025
 
 # Privacy Policy
 
@@ -50,6 +50,12 @@ To exercise these rights, please contact us at:
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be communicated through the app and/or by email. Please review the Privacy Policy periodically to stay informed.
+
+## End User License Agreement (EULA)
+
+By using this application, you acknowledge and agree that the Licensed Application is governed by Apple's Standard End User License Agreement (EULA). You can review the full terms of the EULA at the following link:
+
+[Apple's Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## Contact Us
 If you have any questions or concerns about this Privacy Policy or how your information is handled, please contact us at:
