@@ -1,51 +1,65 @@
 ---
-title: "Terms of Use"
-excerpt: "Terms of Use for our website"
+layout: page
+title:  Terms of Use
+include_in_header: false
 ---
 
-# Terms of Use
+**Last updated**  
+Jan 15, 2025
 
-## 1. Acceptance of Terms
+# Terms of Service
 
-By accessing and using this website, you accept and agree to be bound by the terms and provisions of this agreement.
+## Welcome to Cooky!
+These Terms of Service (“Terms”) govern your access to and use of the Cooky mobile application (the “App”) and associated services (“Services”). By accessing or using our App, you agree to comply with and be bound by these Terms. If you do not agree, you must not use the App.
 
-## 2. Use License
+## Eligibility
+By using Cooky, you confirm that you are at least 16 years old or have the consent of a parent or guardian.
 
-Permission is granted to temporarily download one copy of the materials (information or software) on [Your Website Name] for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+## Privacy and Data Protection
+Cooky values your privacy and is committed to protecting your personal data. Our Privacy Policy explains how we collect, use, and share your information. By using Cooky, you agree to the collection and use of your data in accordance with the Privacy Policy.
 
-- modify or copy the materials;
-- use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-- attempt to decompile or reverse engineer any software contained on [Your Website Name];
-- remove any copyright or other proprietary notations from the materials; or
-- transfer the materials to another person or "mirror" the materials on any other server.
+**GDPR Compliance:**
+- You have the right to access, rectify, or delete your personal data at any time.
+- You may withdraw your consent for data processing by contacting us at: hello@westguardsdigital.com
+- Cooky only collects data necessary for providing the Services, such as meal preferences and usage history.
 
-## 3. Disclaimer
+## Your Account
+- You are responsible for maintaining the confidentiality of your account credentials.
+- You must notify us immediately if you suspect unauthorized access to your account.
+- You agree not to impersonate others or create accounts for fraudulent purposes.
 
-The materials on [Your Website Name] are provided on an 'as is' basis. [Your Website Name] makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+## Use of the Services
+Cooky grants you a non-exclusive, non-transferable, revocable license to use the App for personal non-commercial purposes. You agree not to:
+- Reverse engineer, decompile, or disassemble any part of the App.
+- Use the App in a way that violates any laws or regulations.
+- Upload harmful or unlawful content.
 
-## 4. Limitations
+## Subscription and Payment
+Some features of Cooky may require a subscription. By subscribing, you agree to:
+- Pay the specified fees in your selected currency.
+- Manage your subscription through your device’s app store.
+- Understand that payments are non-refundable except where required by law.
 
-In no event shall [Your Website Name] or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on [Your Website Name], even if [Your Website Name] or a [Your Website Name] authorized representative has been notified orally or in writing of the possibility of such damage.
+## Intellectual Property
+All content, including but not limited to text, graphics, logos, and software, is the property of Cooky or its licensors. You may not reproduce, distribute, or create derivative works without our explicit consent.
 
-## 5. Accuracy of Materials
+## Limitation of Liability
+Cooky is provided “as-is” without any warranties. To the fullest extent permitted by law:
+- We are not liable for indirect, incidental, or consequential damages arising from your use of the App.
+- Our total liability is limited to the fees you have paid in the 12 months prior to the event giving rise to the claim.
 
-The materials appearing on [Your Website Name] could include technical, typographical, or photographic errors. [Your Website Name] does not warrant that any of the materials on its website are accurate, complete or current. [Your Website Name] may make changes to the materials contained on its website at any time without notice.
+## Modifications to the Terms
+We may update these Terms from time to time. The updated version will be effective immediately upon posting. We encourage you to review the Terms regularly.
 
-## 6. Links
+## Termination
+We may terminate or suspend your account at our sole discretion if you violate these Terms. You may terminate your account by contacting us at: hello@westguardsdigital.com
 
-[Your Website Name] has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by [Your Website Name] of the site. Use of any such linked website is at the user's own risk.
+## Governing Law
+- These Terms are governed by and construed in accordance with the laws of the United States, unless otherwise required by applicable local laws in your country of residence.
+- If your local laws mandate that a specific jurisdiction governs this agreement, those laws will apply instead.
+- Any disputes arising from these Terms or the use of the App will be resolved in accordance with the applicable governing laws and jurisdiction of your country of residence, unless otherwise required by mandatory legal provisions.
 
-## 7. Modifications
+## Contact Information
+For questions about these Terms or to exercise your data rights, please contact us at: hello@westguardsdigital.com
 
-[Your Website Name] may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
-
-## 8. Governing Law
-
-These terms and conditions are governed by and construed in accordance with the laws of [Your Country/State] and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-
-## Contact Us
-
-If you have any questions about these Terms of Use, please contact us:
-
-- By email: [your@email.com]
-- By visiting this page on our website: [Your Contact Page URL] 
+By using Cooky, you confirm that you have read, understood, and agree to these Terms of Service.
